@@ -1,5 +1,8 @@
 ### Hey there! Welcome to my page, you can call me Liyan 💖
-### 
+### 𝓯𝓪𝓬𝓽𝓼 𝓪𝓫𝓸𝓾𝓽 𝓶𝓮:
+###   💁‍♀️ 2nd Year IT student in FEU Tech
+###   ✨ 20 years old
+###   📊 I specialize in Business Analytics
 <!--
 **0renjis/0renjis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
