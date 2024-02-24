@@ -3,8 +3,8 @@
 ###   💁‍♀️ 2nd Year IT student in FEU Tech
 ###   ✨ 20 years old
 ###   📊 I specialize in Business Analytics
-
-### You can also find me here! 🤗
+###
+### 𝐘𝐨𝐮 𝐜𝐚𝐧 𝐚𝐥𝐬𝐨 𝐟𝐢𝐧𝐞 𝐦𝐞 𝐡𝐞𝐫𝐞! 🤗
 - [My Facebook Profile](https://facebook.com/0renjis)
 - [My Instagram Profile](https://instagram.com/0renjis)
 - [My X Profile](https://x.com/0renjis) 
