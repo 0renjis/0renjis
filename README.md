@@ -22,7 +22,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
+    <a href="https://edith.feutech.edu.ph/briefcase/profile/leanngallego">「 Google Me 」</a>
     <br>
     「 I am a 2nd year IT student from <b>FEU Tech</b> 」
     <br>
@@ -73,6 +73,13 @@
 
 <br/>
 
+<p align="center"> 
+    <br>
+     Hey everyone! My name is Leann. I'm a college student totally geeking out over everything IT. Websites, coding, design – you name it, I'm diving in. Even data analysis gets me pumped (okay, maybe not as much as coding dragons, but still!). I'm definitely still learning the ropes, but that's the best part – new skills are like superpowers, and I'm on a mission to collect them all! So, buckle up, tech world, because this enthusiastic learner is ready to make a mark!
+    <br>
+    <br>
+  </samp>
+</p>
 ### Hey everyone! My name is Leann. I'm a college student totally geeking out over everything IT. Websites, coding, design – you name it, I'm diving in. Even data analysis gets me pumped (okay, maybe not as much as coding dragons, but still!). I'm definitely still learning the ropes, but that's the best part – new skills are like superpowers, and I'm on a mission to collect them all! So, buckle up, tech world, because this enthusiastic learner is ready to make a mark!
 
 ### ![](https://github.com/0renjis/0renjis/blob/main/pcgirl.gif)
