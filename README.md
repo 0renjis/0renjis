@@ -1,3 +1,4 @@
+<p align="center">
 ### ✨ Hey there! Welcome to my page, you can call me Liyan 💖
 ### Hey everyone! Call me Leann. I'm a college student totally geeking out over everything IT. Websites, coding, design – you name it, I'm diving in. Even data analysis gets me pumped (okay, maybe not as much as coding dragons, but still!). I'm definitely still learning the ropes, but that's the best part – new skills are like superpowers, and I'm on a mission to collect them all! So, buckle up, tech world, because this enthusiastic learner is ready to make a mark!
 ### 𝓯𝓪𝓬𝓽𝓼 𝓪𝓫𝓸𝓾𝓽 𝓶𝓮:
@@ -9,6 +10,7 @@
 - [My Facebook Profile](https://facebook.com/0renjis)
 - [My Instagram Profile](https://instagram.com/0renjis)
 - [My X Profile](https://x.com/0renjis)
+</p>
 ### ![](https://github.com/0renjis/0renjis/blob/main/pcgirl.gif)
 
 <!--
