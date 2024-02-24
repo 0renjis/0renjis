@@ -15,7 +15,7 @@
 
 <!--
 <h2 align="center">
-  Welcome to Al Siam World!
+  Welcome to 0renjis World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 -->
@@ -37,7 +37,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Al Siam</a></b>
+                <b><a target="_blank" href="https://alsiam.com">0renjis</a></b>
         </samp>
 </h3>
 
@@ -46,7 +46,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am a 2nd year IT student from <b>FEU Tech</b> 」
     <br>
     <br>
   </samp>
