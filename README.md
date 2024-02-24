@@ -10,7 +10,7 @@
 - [My Instagram Profile](https://instagram.com/0renjis)
 - [My X Profile](https://x.com/0renjis)
 
-### <img align="center" alt="Coding" width="400: src="![](https://github.com/0renjis/0renjis/blob/main/pcgirl.gif)">
+<img align="center" alt="Coding" width="400: src="(https://github.com/0renjis/0renjis/blob/main/pcgirl.gif)">
 
 <!--
 **0renjis/0renjis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
