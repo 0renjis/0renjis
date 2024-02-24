@@ -3,6 +3,11 @@
 ###   💁‍♀️ 2nd Year IT student in FEU Tech
 ###   ✨ 20 years old
 ###   📊 I specialize in Business Analytics
+
+### You can also find me here! 🤗
+- [My Facebook Profile](https://facebook.com/0renjis)
+- [My Instagram Profile](https://instagram.com/0renjis)
+- [My X Profile](https://x.com/0renjis) 
 <!--
 **0renjis/0renjis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
