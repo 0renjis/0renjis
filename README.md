@@ -8,7 +8,7 @@
 - [My Facebook Profile](https://facebook.com/0renjis)
 - [My Instagram Profile](https://instagram.com/0renjis)
 - [My X Profile](https://x.com/0renjis)
-(https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcute-kitty-gifs&psig=AOvVaw2CYxw4VZVn5T3tJW2f9ksH&ust=1708847667750000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODN_Pu_w4QDFQAAAAAdAAAAABAE)
+
 <!--
 **0renjis/0renjis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
