@@ -4,10 +4,10 @@
 ###   ✨ 20 years old
 ###   📊 I specialize in Business Analytics
 ###
-### 𝐘𝐨𝐮 𝐜𝐚𝐧 𝐚𝐥𝐬𝐨 𝐟𝐢𝐧𝐞 𝐦𝐞 𝐡𝐞𝐫𝐞! 🤗
+### 𝐘𝐨𝐮 𝐜𝐚𝐧 𝐚𝐥𝐬𝐨 𝐟𝐢𝐧𝐝 𝐦𝐞 𝐡𝐞𝐫𝐞! 🤗
 - [My Facebook Profile](https://facebook.com/0renjis)
 - [My Instagram Profile](https://instagram.com/0renjis)
-- [My X Profile](https://x.com/0renjis) 
+- [My X Profile](https://x.com/0renjis)
 <!--
 **0renjis/0renjis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
