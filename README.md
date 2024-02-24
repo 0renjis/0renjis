@@ -9,7 +9,7 @@
 - [My Facebook Profile](https://facebook.com/0renjis)
 - [My Instagram Profile](https://instagram.com/0renjis)
 - [My X Profile](https://x.com/0renjis)
-### My email is [202210597@fit.edu.ph](https://gmail.com/202210597)
+- My email is [202210597@fit.edu.ph](https://gmail.com/202210597@fit.edu.ph)
 
 ### ![](https://github.com/0renjis/0renjis/blob/main/pcgirl.gif)
 
