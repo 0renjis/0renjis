@@ -1,5 +1,5 @@
-### ✨ Hey there! Welcome to my page, you can call me Liyan 💖
-### Hey everyone! Call me Leann. I'm a college student totally geeking out over everything IT. Websites, coding, design – you name it, I'm diving in. Even data analysis gets me pumped (okay, maybe not as much as coding dragons, but still!). I'm definitely still learning the ropes, but that's the best part – new skills are like superpowers, and I'm on a mission to collect them all! So, buckle up, tech world, because this enthusiastic learner is ready to make a mark!
+### ✨ Welcome to my page, you can call me Liyan 💖
+### Hey everyone! My name is Leann. I'm a college student totally geeking out over everything IT. Websites, coding, design – you name it, I'm diving in. Even data analysis gets me pumped (okay, maybe not as much as coding dragons, but still!). I'm definitely still learning the ropes, but that's the best part – new skills are like superpowers, and I'm on a mission to collect them all! So, buckle up, tech world, because this enthusiastic learner is ready to make a mark!
 ### 𝓯𝓪𝓬𝓽𝓼 𝓪𝓫𝓸𝓾𝓽 𝓶𝓮:
 ###   - 💁‍♀️ 2nd Year IT student in FEU Tech
 ###   - ✨ 20 years old
