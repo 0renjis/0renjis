@@ -77,7 +77,7 @@
 
 <br/>
 
-<p>
+<p align="center">
 <img align="center" width="250" src="https://github.com/0renjis/0renjis/blob/main/pcgirl.gif" alt="pc girl gif" />
 </p>
 
