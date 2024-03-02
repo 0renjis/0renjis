@@ -78,6 +78,6 @@
 <br/>
 
 <p>
-<img align="center" width="350" src="/blob/main/pcgirl.gif" alt="pc girl gif" />
+<img align="center" width="350" src="https://github.com/0renjis/0renjis/blob/main/pcgirl.gif" alt="pc girl gif" />
 </p>
 ### ![](https://github.com/0renjis/0renjis/blob/main/pcgirl.gif)
