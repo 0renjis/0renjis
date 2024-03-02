@@ -78,5 +78,5 @@
 <br/>
 
 
-
+<img align="center" width="350" src="/assets/pcgirl.gif" alt="pc girl gif" />
 ### ![](https://github.com/0renjis/0renjis/blob/main/pcgirl.gif)
