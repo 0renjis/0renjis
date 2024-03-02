@@ -78,6 +78,6 @@
 <br/>
 
 <p align="center">
-<img align="center" width="250" src="https://github.com/0renjis/0renjis/blob/main/lili.gif" alt="pc girl gif" />
+<img align="center" width="500" src="https://github.com/0renjis/0renjis/blob/main/lili.gif" alt="pc girl gif" />
 </p>
 
