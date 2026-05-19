@@ -15,7 +15,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">0renjis</a></b>
+                <b><a target="_blank" href="https://github.com/0renjis">0renjis</a></b>
         </samp>
 </h3>
 
