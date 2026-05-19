@@ -24,7 +24,7 @@
   <samp>
     <a href="https://edith.feutech.edu.ph/briefcase/profile/leanngallego">「 Google Me 」</a>
     <br>
-    「 I am a 2nd year IT student from <b>FEU Tech</b> 」
+    「 I am a 4th year IT student from <b>FEU Tech</b> 」
     <br>
     <br>
   </samp>
